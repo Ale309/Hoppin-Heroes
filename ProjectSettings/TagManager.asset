@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Floor
+  - Orange
+  - Trap
+  - Wall
+  - Ground
+  - Platform
+  - Collectible
+  - Door
+  - GreenRunner
+  - SkullSoldier
+  - Enemy
+  - MrBlow
+  - Limit
+  - Trophy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Floor
+  - Wall
+  - Platform
+  - Limit
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 4047748921
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Floor
+    uniqueID: 2196256297
+    locked: 0
+  - name: Terrain
+    uniqueID: 1252980827
+    locked: 0
+  - name: Wall
+    uniqueID: 2154910419
+    locked: 0
+  - name: Decorations front
+    uniqueID: 2957701177
+    locked: 0
+  - name: Limit
+    uniqueID: 1164043659
+    locked: 0
